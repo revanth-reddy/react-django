@@ -1,0 +1,25 @@
+#react_nav{
+	border-radius: 10px;
+	display: block;
+	padding: 50px;
+}
+
+
+
+.navbar-fixed-top {
+    top: 0;
+    border-width: 0 0 1px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 30px;
+}
+
+
+.nav{
+	padding-left: 0%;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
